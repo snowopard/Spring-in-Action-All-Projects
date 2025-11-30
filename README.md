@@ -65,8 +65,6 @@ Click connect
  
 There is one folder for each chapter in the book—​except for chapters 11 and 12, which share a source folder—​each containing most or all of the sample code for that chapter.
 
-This source code is available for download from the book’s page at Manning.com as well as in GitHub at [Projects](https://github.com/Hamdambek/Spring-in-Action-5-Book-All-Projects)
-
 # IMPORTANT: Lombok
 To avoid having to write and maintain what is mostly boilerplate Java code, I’ve elected to use Lombok in all of these examples. When building from the command line, using Maven, you shouldn’t encounter any problems, as Lombok is included as part of the build process. 
 But you will very likely encounter issues if you import these projects into your IDE.
